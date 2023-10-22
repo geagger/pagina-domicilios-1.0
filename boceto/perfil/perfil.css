@@ -1,0 +1,84 @@
+body {
+    background: gray;
+}
+
+.perfil {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    border-radius: 5px;
+    border: 1px solid #ccc; 
+    box-shadow: 0 0 10px #000;
+    width: 93%;
+    height: 90%;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+    display: block;
+}
+
+.datos personales {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;   
+    background: white;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 93%;
+    height: 90%;
+}
+
+.ubicacion {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background:white;
+    border-radius: 5px;
+    width: 93%;
+    height: 90%;
+    margin: 0 auto;
+}
+
+.metodo_de_pago {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 93%;
+    height: 90%;
+    margin: 0 auto;
+} 
+
+.botones {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    border-radius: 5px;
+    width: 93%;
+    height: 90%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+p {
+    font-size: 18px;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Personaliza los estilos según tus preferencias */
